@@ -17,6 +17,8 @@ Esta página web ha sido desarrollada para representar la presencia en línea de
 
 El sitio estará disponible próximamente mediante GitHub Pages.
 
+https://kevdep.github.io/VEROS-PASTELERIA-WEB/
+
 ## 💻 Cómo ver el proyecto localmente
 
 1. Clona este repositorio:
